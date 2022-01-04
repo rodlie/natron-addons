@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<repo>
+    <version>1.0</version>
+    <title>Natron Rodlie Add-ons</title>
+    <url>https://github.com/rodlie/natron-addons</url>
+    <manifest>https://raw.githubusercontent.com/rodlie/natron-addons/main/manifest.xml</manifest>
+    <zip>https://github.com/rodlie/natron-addons/archive/refs/heads/master.zip</zip>
+    <checksum></checksum>
+    <modified>2021-11-25 19:00</modified>
+</repo>
